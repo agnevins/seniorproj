@@ -1,0 +1,93 @@
+
+<html>
+<head>
+<style>
+
+body {
+    background-color: lightblue;
+    font-family: arial;
+    font-size: 20px;
+    color: white;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-size: 30px;
+    -webkit-text-stroke: 1px #901C3F;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: arial;
+    font-size: 45px;
+    -webkit-text-stroke: 2px #901C3F;
+}
+h3 {
+    color: #585858;
+    text-align: center;
+    font-family: arial;
+    font-size: 10px;
+
+}
+h4 {
+    color: #900C3F;
+    text-align: center;
+    font-family: arial;
+    font-size: 16px;
+}
+.button {
+    background-color: #900C3F;
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+.button1 {
+    background-color: white;
+    border: none;
+    color: #900C3F;
+    padding: 15px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+
+.button:hover {
+    background-color: white;
+    -webkit-text-stroke: 0.5px #901C3F;
+}
+</style>
+</head>
+
+<body>
+<center><br><br><br><br>
+<h2>Welcome to the Mississippi Beta </h2>
+<h1>Pi Beta Phi Sorority Seating Sort<br></h1>
+<h4>Click on the day you would like a seating chart for:</h4>
+
+
+<form action="http://127.0.0.1:8000/sorsort/rush">
+  <button type="submit" button class="button">Greek Day</button>
+</form>
+<form action="http://127.0.0.1:8000/sorsort/phil">
+  <button type="submit" button class="button">Philanthropy Round</button>
+</form>
+<form action="http://127.0.0.1:8000/sorsort/sister">
+  <button type="submit" button class="button">Sisterhood Round</button>
+</form><br><br>
+<form action="" name="test2" method="POST" enctype="multipart/form-data" class="form-horizontal">{% csrf_token %}
+<div class="form-group">
+    <div class="col-md-3 col-sm-3 col-xs-12 col-md-offset-3" style="margin-bottom:10px;">
+         <button class="button1"> <span class="glyphicon glyphicon-upload" style="margin-right:5px;"></span>Download File Template</button>
+    </div>
+</div>
+</form>
+<h3><br>*To successfully use this application for Greek Day download/follow the template above and save as a .CSV extension*</h3>
+</center>
+</body>
+</html>

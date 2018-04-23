@@ -1,0 +1,967 @@
+Table,Seat,Name,Group #
+"
+"
+1,1,Addie Abbott,1
+1,2,Adair Allbritten,1
+1,3,Savannah Anderson,1
+1,4,Greer Austin,1
+1,5,Allie Baker,1
+1,6,Hannah Barge,1
+1,7,Avery Barry,1
+1,8,Abigail Bean,1
+2,1,Katharine A. Bentley,1
+2,2,Mari Black,1
+2,3,Hayley Bondurant,1
+2,4,Madison Bowes,1
+2,5,Sarah Brady,1
+2,6,Taylor Bring,1
+2,7,Taylor Brown,1
+2,8,Whitney Buelow,1
+3,1,Libby Burns,1
+3,2,Sarah Calderon,1
+3,3,Kaci Carbon,1
+3,4,Ryan Cauley,1
+3,5,Ally Chase,1
+3,6,Addy Clark,1
+3,7,Ally Coale,1
+3,8,Avery Claire Cook,1
+4,1,Carlton Covert,1
+4,2,Christina Cross,1
+4,3,Emma Dabney,1
+4,4,Hailey Davalos,1
+4,5,Izabelle Davis,1
+4,6,Kathryn DeFelice,1
+4,7,Kelsey Dickson,1
+4,8,Lexi Donahoe,1
+5,1,Maddie Dubiski,1
+5,2,Mallory Duthu,1
+5,3,Mary Chose Eaton,1
+5,4,Nikki Ellis,1
+5,5,Rives Falkner,1
+5,6,Savanna M. Fennell,1
+5,7,Tess Fisher,1
+5,8,Haleigh Flynn,1
+6,1,Brenna Frantz,1
+6,2,Avery A. Gallagher,1
+6,3,Alexa Gatwood,1
+6,4,Anna Gibson,1
+6,5,Bevin Godfrey,1
+6,6,Cassidy Goudeau,1
+6,7,Ellie Green,1
+6,8,Gabby Griffin,1
+7,1,Hannah Guess,1
+7,2,Jenny Halingten-Verville,1
+7,3,Kate Harris,1
+7,4,Kelly Hathhorn,1
+7,5,Lauren Hayward,1
+7,6,Maddie Heineman,1
+7,7,Maggie Herring,1
+7,8,Mckenna Hill,1
+8,1,Natalie Hobson,1
+8,2,Rachel Houin,1
+8,3,Sarah Hudson,1
+8,4,Taylor Hyde,1
+8,5,Chasey Jefferson,1
+8,6,Josie Johnson,1
+8,7,Sierra Jones,1
+8,8,Andi Kantor,1
+9,1,Anna Claire Kelley,1
+9,2,Brooke Kimbrough,1
+9,3,Claudia Klein,1
+9,4,Emily Komisar,1
+9,5,Genevieve Ladner,1
+9,6,Hannah Lanter,1
+9,7,Josey Kate LeBrun,1
+9,8,Kassidy Little,1
+10,1,Lauren Longton,1
+10,2,Liza Lowery,1
+10,3,Madison Maguire,1
+10,4,Mckenna Mandle,1
+10,5,Meredith Marcum-French,1
+10,6,Rachael McCann,1
+10,7,Sydney McCrite,1
+"
+"
+1,1,Allie Abel,2
+1,2,Elizabeth Allbritton,2
+1,3,Maggie Andrews,2
+1,4,Kailey Autry,2
+1,5,Cameron Baker,2
+1,6,Allie Barker,2
+1,7,Carol Barry,2
+1,8,Emma Bear,2
+2,1,Madison Berry,2
+2,2,Maddie Blair,2
+2,3,Kelly Bone,2
+2,4,Allison Bowles,2
+2,5,Sammy Brady,2
+2,6,Savannah Brinson,2
+2,7,Allie Brown ,2
+2,8,Zane Buhner,2
+3,1,Katelyn Burress,2
+3,2,Greylin Cales,2
+3,3,Kristin Carillo,2
+3,4,Carly Causey,2
+3,5,Abby Chatakondi,2
+3,6,Adelaide Clay,2
+3,7,Amber Cochran,2
+3,8,Brianna Cook,2
+4,1,Casey Cox,2
+4,2,Elgin Cross,2
+4,3,Emma Dacus,2
+4,4,Hailey Davenport,2
+4,5,Ivy Davis,2
+4,6,Katie DeFeo,2
+4,7,Kelsey Dietz,2
+4,8,Lauren Donaldson,2
+5,1,Maddie Dubois,2
+5,2,Mallory Dutreix,2
+5,3,Mary Arden Eckenrode,2
+5,4,Nikki Ellison,2
+5,5,Reagan-Mary Falls,2
+5,6,Savanna Ferguson,2
+5,7,Taylor Fisse,2
+5,8,Stacy Flynn,2
+6,1,Maddie Frase,2
+6,2,Simmy Galyean,2
+6,3,Alexandra Gayle,2
+6,4,Anna Gilbert,2
+6,5,Blaine Goerner,2
+6,6,Casey Gough,2
+6,7,Ellie Green,2
+6,8,Grace Griffin,2
+7,1,Hayden Gunderson,2
+7,2,Jennifer Hall,2
+7,3,Kate Harris,2
+7,4,Laura Hatten,2
+7,5,Macey Healy,2
+7,6,Maddie Heitmeyer,2
+7,7,Mary Herrington,2
+7,8,Millie Hill,2
+8,1,Olivia Hodnett,2
+8,2,Taran House,2
+8,3,Sarah Huff,2
+8,4,Tate Illges,2
+8,5,Savannah Jenkins,2
+8,6,Laiken Johnson,2
+8,7,Abby Jordan,2
+8,8,Andre Kasnick,2
+9,1,Anna Caitlyn Kelley,2
+9,2,Caroline Kincaid,2
+9,3,Claudia Kleman,2
+9,4,Emily Kostial,2
+9,5,Genevieve Ladner,2
+9,6,Hope LaSalle,2
+9,7,Josette Lees,2
+9,8,Katie Livingston,2
+10,1,Lauren Lorsbach,2
+10,2,Liza Lucas,2
+10,3,Madison Maher,2
+10,4,McKenna Mann,2
+10,5,Meghan Marine,2
+10,6,Rachael McCarthy,2
+10,7,Stephanie McCubbins,2
+"
+"
+1,1,Hannah Allen,3
+1,2,Sydney Acker,3
+1,3,Kelsey L. Anthony,3
+1,4,Marlee Frances Avery,3
+1,5,Jordan Baker,3
+1,6,Becca E. Barker,3
+1,7,Gabby Barry,3
+1,8,Ainsley Beavers,3
+2,1,Aimee Berthold,3
+2,2,Kellie Blanchard,3
+2,3,Kelsey Bonner,3
+2,4,Camille Bowlus,3
+2,5,Libby Bragg,3
+2,6,Shelley Brittain,3
+2,7,Elizabeth Brownell,3
+2,8,Tiana Builta,3
+3,1,Jaycee Burrow,3
+3,2,Madison Calnan,3
+3,3,Libby Carpenter,3
+3,4,Madeline Grace Cavanaugh,3
+3,5,Ally Chatman,3
+3,6,Adriana C. Clay,3
+3,7,Amanda Cockayne,3
+3,8,Bri Cook,3
+4,1,Casey Cox,3
+4,2,Elana Crowell,3
+4,3,Emily R. Daly,3
+4,4,Haley Davidson,3
+4,5,Jill Davis,3
+4,6,Katelyn DeFeo,3
+4,7,Kelsey Dillenburger,3
+4,8,Lauren Donaldson,3
+5,1,Maddie Duda ,3
+5,2,Mallory Dutton,3
+5,3,Meagan Edmonds,3
+5,4,Nikki Elmore,3
+5,5,Ragan Farley,3
+5,6,Savanah Ferguson,3
+5,7,Taylor Flach,3
+5,8,MeriClaire Foreman,3
+6,1,Sydnie Freeman,3
+6,2,Angelique Garcia,3
+6,3,Alexandra Gaylor,3
+6,4,Anna Gilder,3
+6,5,Brooke Goggans,3
+6,6,Cori Graeber,3
+6,7,Emily  Green,3
+6,8,Grace Griffin,3
+7,1,Hayden Gurney,3
+7,2,Jordan Halliday,3
+7,3,Kate Harris,3
+7,4,Laura Haun,3
+7,5,Luci Heasley,3
+7,6,Madison Hendel,3
+7,7,Mary Hewitt,3
+7,8,Meredith Hils,3
+8,1,Noelle Hollensteiner,3
+8,2,Sydney Howard,3
+8,3,Sarah Huffman,3
+8,4,Yasmine Inman,3
+8,5,Ann Catherine Jessee,3
+8,6,Maddie Johnson,3
+8,7,Emily Jordan,3
+8,8,Angelica Keane,3
+9,1,Bailey Kemp,3
+9,2,Caroline King,3
+9,3,Clari Kline,3
+9,4,Emily Krekorian,3
+9,5,Gentry Ladouceur,3
+9,6,Holli Lasso,3
+9,7,Jordyn Lees,3
+9,8,Kayla Lobel,3
+10,1,Leah Lorthorp,3
+10,2,Liz Lucht,3
+10,3,Madison Maher,3
+10,4,Mckain Manning,3
+10,5,Megan Maroney,3
+10,6,Rachael McCay,3
+10,7,Sophie McCurley,3
+"
+"
+1,1,Autumn Adams,4
+1,2,Raksha Allen,4
+1,3,Stephanie Apple,4
+1,4,Graham Bacon,4
+1,5,Maari Baker,4
+1,6,Allie Barksdale,4
+1,7,Courtney Bartley,4
+1,8,Allie Bebee,4
+2,1,Lydia Bethea,4
+2,2,Lili Blitzer,4
+2,3,Margo Booth,4
+2,4,Margeaux Boyce,4
+2,5,Taylor Brakefield,4
+2,6,Melissa Broadus,4
+2,7,Grace Browning,4
+2,8,Starla Buley,4
+3,1,Elsi Busch,4
+3,2,Olivia Calnan,4
+3,3,Meg Carpenter,4
+3,4,Bridget Caviness,4
+3,5,Avery Chauvin,4
+3,6,Alex Clayton,4
+3,7,Amanda Coker,4
+3,8,Brett Adair Cook,4
+4,1,Cary Cox,4
+4,2,Elaina Cullum,4
+4,3,Gabby Dames,4
+4,4,Haleigh Davis,4
+4,5,Jessica Davis,4
+4,6,Katharine DeJoe,4
+4,7,Kelsey Dillon,4
+4,8,Lauren Dortch,4
+5,1,Maddie Duff,4
+5,2,Maggie Dwyer,4
+5,3,Meagan Edmondson,4
+5,4,Nicole Elmore,4
+5,5,Rachel Farris,4
+5,6,Sarah Ferguson,4
+5,7,Taylor Flanders,4
+5,8,Carson Fortenberry,4
+6,1,Cassie French,4
+6,2,Brooke Gardner,4
+6,3,Amy Gearhart,4
+6,4,Anna Gimotty,4
+6,5,Brooke Goldhammer,4
+6,6,Connor Graham,4
+6,7,Emily Green,4
+6,8,Ginnie Griffith,4
+7,1,Hannah Gusella,4
+7,2,Juli Hammons,4
+7,3,Kate Harris,4
+7,4,Larsen Haupt,4
+7,5,Lucero Heberer,4
+7,6,Madison Hendrix,4
+7,7,Meagan Hickey,4
+7,8,Meredith Hines,4
+8,1,Nolte Holloway,4
+8,2,Sydney Howard,4
+8,3,Sara Beth Hughes,4
+8,4,Walton Irons,4
+8,5,Raquel A. Jimenez,4
+8,6,Madeline Johnson,4
+8,7,Ferrell Jordan,4
+8,8,Anna Kearns,4
+9,1,Barker Kennedy,4
+9,2,Caroline King,4
+9,3,Claire Kline,4
+9,4,Emily Kriscunas,4
+9,5,Genevieve Lake,4
+9,6,Janie Lauriello,4
+9,7,Jordyn Lester,4
+9,8,Kayla Lochner,4
+10,1,Leah Lott,4
+10,2,Lindy Luke,4
+10,3,Madison Maher,4
+10,4,McClellan Manroe,4
+10,5,Natalie Marshall,4
+10,6,Quinn McCloskey,4
+10,7,Sophia P. McDonald,4
+"
+"
+1,1,Mackenzie Adams,5
+1,2,Caroline Almany,5
+1,3,Paige Armistead,5
+1,4,Kailey Bacot,5
+1,5,Marie Baker,5
+1,6,Emma Barnes,5
+1,7,Olivia Barton,5
+1,8,Lillie Bebee,5
+2,1,Mikayla Betts,5
+2,2,Meg Block,5
+2,3,Darrah Borst,5
+2,4,Allison Boyer,5
+2,5,Jillian Brand,5
+2,6,Lauren Brock,5
+2,7,Lucy Browning,5
+2,8,Gracie Buller,5
+3,1,Madeline Bush,5
+3,2,Adryanna Campbell,5
+3,3,Grace Carrasco,5
+3,4,Maddie Chadwick,5
+3,5,Skylar Chick,5
+3,6,Alex Cleary,5
+3,7,Amanda Coleman,5
+3,8,Brennan Cooley,5
+4,1,Carson Coyne,5
+4,2,E. Carlee Culp,5
+4,3,Grace Damron,5
+4,4,Hayley Davis,5
+4,5,Jenny Davoren ,5
+4,6,Katharine Delk,5
+4,7,Kristen Dillon,5
+4,8,Macey Doty,5
+5,1,Maddie Duffield,5
+5,2,Mary Dyer,5
+5,3,Millie Edwards,5
+5,4,Olivia Elves,5
+5,5,Tasia Farris,5
+5,6,Sarah Fernandez,5
+5,7,Tate Flanigan,5
+5,8,Schrader Fossier,5
+6,1,Lake French,5
+6,2,Fances Kay Garland,5
+6,3,Ana Geduldig,5
+6,4,Anna Giordano,5
+6,5,Caroline Golightly,5
+6,6,Colleen Granger,5
+6,7,Emily Greenberger,5
+6,8,Gislina Griffith,5
+7,1,Hannah Guyton,5
+7,2,Jules Hampton,5
+7,3,Katie Harris,5
+7,4,Lanie Hawkins,5
+7,5,Lolly Hebrank,5
+7,6,Madison Hendry,5
+7,7,Meagan Hickman,5
+7,8,Meghan Hines,5
+8,1,Olivia Holmes,5
+8,2,Summer Howitt,5
+8,3,Sara Hughes,5
+8,4,Victoria Ismert,5
+8,5,Paige Johns,5
+8,6,Molli Johnson,5
+8,7,Abby Joyce,5
+8,8,Anna Keaton,5
+9,1,Bailie Kennedy,5
+9,2,Caroline King,5
+9,3,Christian Klippenstein,5
+9,4,Emily Kruse,5
+9,5,Hannah Lamb,5
+9,6,Jamie Lavery,5
+9,7,Jordan B. Lewis,5
+9,8,Kaylei Locke,5
+10,1,Leah Lott,5
+10,2,Lindsey Lung,5
+10,3,Madison Maleic,5
+10,4,Maureen Mansel,5
+10,5,Natalie Marsula,5
+10,6,Payton McClure,5
+10,7,Shelby McElhanon,5
+"
+"
+1,1,Alli Affolter,6
+1,2,Katherine Alonso,6
+1,3,Kelley Armitage,6
+1,4,Maggie Baggett,6
+1,5,Elizabeth Baldwin,6
+1,6,Madison Barnes,6
+1,7,Courtney Bateman,6
+1,8,Grace Bell,6
+2,1,Katelyn Biedermann,6
+2,2,Grace Bloxsom,6
+2,3,Samantha Bosarge,6
+2,4,Cami Boyette,6
+2,5,Rachel Brasher,6
+2,6,Lucy Brock,6
+2,7,Virginia Bruce,6
+2,8,Shaun Buras,6
+3,1,Kristen Buttaro,6
+3,2,Gracie Campbell,6
+3,3,Mia Carriere,6
+3,4,Sydni Chafer,6
+3,5,Allison Childers,6
+3,6,Alessia Cleveland,6
+3,7,Alyssa Coleman,6
+3,8,Brooke Cooley,6
+4,1,Courtney Cradic,6
+4,2,Elly Cummings,6
+4,3,Grace Dang,6
+4,4,Hayley Davis,6
+4,5,Jordan Davy,6
+4,6,Katelyn Delucia,6
+4,7,Kristen Dillon,6
+4,8,Lucy Dougherty,6
+5,1,Madison Duhon,6
+5,2,Mary Earls,6
+5,3,Mia Edwards,6
+5,4,Olivia Emerson,6
+5,5,Sydney Farris,6
+5,6,Sarah Ferrell,6
+5,7,Zarina Flautt,6
+5,8,Amelia Foster,6
+6,1,Morgan French,6
+6,2,Emily  Garner,6
+6,3,Amy Geeslin,6
+6,4,Avery Giovingo,6
+6,5,Caroline Goodman,6
+6,6,Colleen Grant,6
+6,7,Emily Greenblatt,6
+6,8,Ginger Griffith,6
+7,1,Hannah Guyton,6
+7,2,Jules Hancock,6
+7,3,Kayla Harrison,6
+7,4,Lexi Haydel,6
+7,5,Logan Hecht,6
+7,6,Madison Henley,6
+7,7,Meagan Higginbotham,6
+7,8,Megan Hiniker,6
+8,1,Rachel Holmes,6
+8,2,Sophie Hua,6
+8,3,Samantha Hughes,6
+8,4,Riley Iwasaki,6
+8,5,Ann Kate Johnson,6
+8,6,Sydney V. Johnson,6
+8,7,Abby Jumper,6
+8,8,Anna Keenan,6
+9,1,Bailey Anne Kennerly,6
+9,2,Caroline King,6
+9,3,Chris Knapp,6
+9,4,Emily Kuhn,6
+9,5,Hannah Lancaster,6
+9,6,Isabella Laws,6
+9,7,Jordan Lewis,6
+9,8,Kayleigh Lockett,6
+10,1,Leah Love,6
+10,2,Mackenzie Lusco,6
+10,3,Makenzie Malherbe,6
+10,4,Mattie Mansfield,6
+10,5,Natalie Matchette,6
+10,6,Payton McClure,6
+10,7,Shannon McEntire,6
+"
+"
+1,1,Avery Agnew,7
+1,2,Sydney Alston,7
+1,3,Aliya Arnold,7
+1,4,Gracyn Bagwell,7
+1,5,Jacki Baldwin,7
+1,6,Briley Kate Barnett,7
+1,7,Olivia Bates,7
+1,8,Megan Bell,7
+2,1,Madison Biele,7
+2,2,Elyse Blue,7
+2,3,Carmen Bosley,7
+2,4,Margaret Boyles,7
+2,5,Paige Brashier,7
+2,6,Rebecca Brooding,7
+2,7,Megan Bryan,7
+2,8,Stefany Burcham,7
+3,1,Abby Buza,7
+3,2,Kaila Cantrell,7
+3,3,Carly Carrington,7
+3,4,Morgan Chain,7
+3,5,Brooke Chrisman,7
+3,6,Allison Click,7
+3,7,Alyssa Colleran,7
+3,8,Brooke Cooper,7
+4,1,Courtney Crane,7
+4,2,Ellie Cunningham,7
+4,3,Glennis Daniels,7
+4,4,Hannah Davis,7
+4,5,Julia Day,7
+4,6,Katelin DeMoss,7
+4,7,Laura Dixon,7
+4,8,Lucy Douglas,7
+5,1,Madison Duke,7
+5,2,Margaret Early,7
+5,3,Merry Alston Edwards,7
+5,4,Olivia Emfinger,7
+5,5,Sydney Faucett,7
+5,6,Sara  Ferris,7
+5,7,Wendy E. Fletcher,7
+5,8,Molly Foster,7
+6,1,Jordan Fuentes,7
+6,2,Abby Garrison,7
+6,3,Amy Gegg,7
+6,4,Bailee Gist,7
+6,5,Caroline Goodman,7
+6,6,Claire Grantham,7
+6,7,Emily Greenfield,7
+6,8,Georgia Grisanti,7
+7,1,Jansen Guzman,7
+7,2,Jules Hanneke,7
+7,3,Kayla Harrison,7
+7,4,Lexi Hayden,7
+7,5,Loden Hecht,7
+7,6,Madison Herbert,7
+7,7,Meagan Higginbotham,7
+7,8,Nicole Hirsch,7
+8,1,Rachel Holthaus,7
+8,2,Sophie Hubacek,7
+8,3,Sally Hughes,7
+8,4,Ann Kelly Jackson,7
+8,5,Ann Johnson,7
+8,6,Rowan Johnson,7
+8,7,Alex Justice,7
+8,8,Anna Kehne,7
+9,1,Bailey A. Kenney,7
+9,2,Chandler King,7
+9,3,Dorothy Knight,7
+9,4,Erin Kuss,7
+9,5,Hannah Land,7
+9,6,Hunter Lawson,7
+9,7,Kathryn Linder,7
+9,8,Kindall Loe,7
+10,1,Lea Lovelace,7
+10,2,Madeline Lutz,7
+10,3,Makenzie Malloy,7
+10,4,Mary Reid Mansfield,7
+10,5,Natalie Mathis,7
+10,6,Riley McCord,7
+"
+"
+1,1,Claire Alexander,8
+1,2,Cindy Amann,8
+1,3,Megan Arnold,8
+1,4,Kaileigh Baich,8
+1,5,Becca M. Ball,8
+1,6,Jessica Barnett,8
+1,7,Bridgette Bauer,8
+1,8,Rachel Bell,8
+2,1,Christina Bielski,8
+2,2,Madeline Blueford,8
+2,3,Savannah Bost,8
+2,4,Allie Grace Bozeman,8
+2,5,Swayze Brennan,8
+2,6,Claire Broussard,8
+2,7,Tatum Bryan,8
+2,8,Kelsey J. Burford,8
+3,1,Allie Byrd,8
+3,2,Courtney Caples,8
+3,3,Ally Carter,8
+3,4,Carly Chambers,8
+3,5,Fallon Christodoulelis,8
+3,6,Amanda Climer,8
+3,7,Amelia Colquett,8
+3,8,Camryn Cooper,8
+4,1,Courntey Craven,8
+4,2,Emily  Cunningham,8
+4,3,Grace Daniels,8
+4,4,Hannah Davis,8
+4,5,Julia Day,8
+4,6,Katie Dender,8
+4,7,Laura Dixon,8
+4,8,Lucy Dowdell,8
+5,1,Madison Duke,8
+5,2,Mary Franklin Earrey,8
+5,3,Meghan Eickholz,8
+5,4,Olivia Emshoff,8
+5,5,Summer Fawcett,8
+5,6,Sara Fertic,8
+5,7,Victoria Flitton,8
+5,8,Rawlins Foster,8
+6,1,Julia Fuller,8
+6,2,Abby Garvey,8
+6,3,Amelia Skye Geiss,8
+6,4,Bailey Glass,8
+6,5,Caroline Goodson,8
+6,6,Christina Grass,8
+6,7,Emily Greenly,8
+6,8,Hailey Grisham,8
+7,1,Jamie Haadsma,8
+7,2,JudiBeth Harbourne,8
+7,3,Kayla Hartman,8
+7,4,Lexi Hayden,8
+7,5,Lizzie Heckendorn,8
+7,6,Madison Herbert,8
+7,7,McKinley Hightower,8
+7,8,Nicole Hirschfield,8
+8,1,Payton Holton,8
+8,2,Shelby Huddleston,8
+8,3,Trsiten Hull,8
+8,4,Reed Jackson,8
+8,5,Brooklyn Johnson,8
+8,6,Abbie Joiner,8
+8,7,Alex Kaelin,8
+8,8,Anna Kehoe,8
+9,1,Brooks Kesler,8
+9,2,Chandler King,8
+9,3,Ellie Knochel,8
+9,4,Erin Kyle,8
+9,5,Hannah Lander,8
+9,6,Hope Lay,8
+9,7,Kathleen R. Lindsay,8
+9,8,Kim Loeschen,8
+10,1,Lauren Lovett,8
+10,2,Madeleine E. Lyell,8
+10,3,Makenzie Malloy,8
+10,4,Mary Tanner Mansour,8
+10,5,Natalie Matthews,8
+10,6,Reagan McCormack,8
+"
+"
+1,1,Grace Alexander,9
+1,2,Sam Ames,9
+1,3,Maddie Arthur,9
+1,4,Emma Bailey,9
+1,5,Elizabeth Ball,9
+1,6,Jane Barnette,9
+1,7,Kristina Bauknight,9
+1,8,Meg H. Benefield,9
+2,1,Abby Biggs,9
+2,2,Kristin Blythe,9
+2,3,Maddie Boswell,9
+2,4,Carlye Bracken,9
+2,5,Carlisle F. Brentz Shook,9
+2,6,Victoria Broussard,9
+2,7,Brooklyn Bryant,9
+2,8,Margaret Burford,9
+3,1,Mandy Byrd,9
+3,2,Kelsey Capocaccia,9
+3,3,Scout Carter,9
+3,4,Landry Chance,9
+3,5,Ellie Ciallela,9
+3,6,Alyssa Climer,9
+3,7,Avery Colquett,9
+3,8,Camryn Cooper,9
+4,1,Corryl Creekmore,9
+4,2,Emily  Currey,9
+4,3,Grace Dansby,9
+4,4,Hannah Davis,9
+4,5,Julia Day,9
+4,6,Kelly Dennis,9
+4,7,Lexie Dixon,9
+4,8,Lucy Downs,9
+5,1,Madison Duncan,9
+5,2,Mary Fondren Eason,9
+5,3,Megan Elder,9
+5,4,Olivia Engle,9
+5,5,Stella Fay,9
+5,6,Samantha Fieber,9
+5,7,Rivers Flohr,9
+5,8,Corley Fowler,9
+6,1,Amelia Fyfe,9
+6,2,Abby Gash,9
+6,3,Anna Geist,9
+6,4,Bailey Glaze,9
+6,5,Caroline Goodson,9
+6,6,Christiane Graves,9
+6,7,Emily Gregoire,9
+6,8,Greer Grissett,9
+7,1,Isabelle Hack,9
+7,2,Joy Morgan Hargrave,9
+7,3,Katie Ann Hartmann,9
+7,4,Leila Haynam,9
+7,5,Mackenzie Hector,9
+7,6,Mallory Herman,9
+7,7,McKinley Hilbun,9
+7,8,Nicole Hirschman,9
+8,1,Payton Hooper,9
+8,2,Shannon Hudgins,9
+8,3,Tiffany Hull,9
+8,4,Caroline Jackson ,9
+8,5,Charlotte Johnson,9
+8,6,Anastasia Jones,9
+8,7,Alex Kaim,9
+8,8,Anna Keil,9
+9,1,Bryn Keyes,9
+9,2,Chandler Kiniry,9
+9,3,Ellie Knotts,9
+9,4,Erin LaBine,9
+9,5,Hannah Landing-Fultz,9
+9,6,Jessica Lazich,9
+9,7,Kate Lindsey,9
+9,8,Kenzie Logan,9
+10,1,Lauren Lovitt,9
+10,2,Mae Ma,9
+10,3,Makensie Malone,9
+10,4,Mary Reed Marable,9
+10,5,Natalie Maxwell,9
+10,6,Rachel B. McCowan,9
+"
+"
+1,1,Hayley Alexander,10
+1,2,Courtney Anderson,10
+1,3,Kellie Ashman,10
+1,4,Maggie Bailey,10
+1,5,Jaci Barbee,10
+1,6,Reilly Barnette,10
+1,7,Olivia Baumgardner,10
+1,8,DeAnna Bennett,10
+2,1,Katie Biggs,10
+2,2,Olivia Boeing,10
+2,3,Allie Bottin,10
+2,4,Meg Bradley,10
+2,5,Miranda Bressler,10
+2,6,Carley Brown,10
+2,7,Jessica Bryant,10
+2,8,Carlie M. Burnett,10
+3,1,Payton Byrd,10
+3,2,Maragaret Ann Capponi,10
+3,3,Reade Case,10
+3,4,Jordan Chandler,10
+3,5,Abby Ciotoli,10
+3,6,Alston Cline,10
+3,7,Bailee Connell,10
+3,8,Carrie Corkern,10
+4,1,Claire Crenshaw,10
+4,2,Emily  Curtis,10
+4,3,Grace Daoust,10
+4,4,Janiyah Davis,10
+4,5,Julia Dearie,10
+4,6,Kayla Dent,10
+4,7,Lexie Doan,10
+4,8,Lucile Drake,10
+5,1,Madison Duncan,10
+5,2,Mary Claire Eason,10
+5,3,Medley Eline,10
+5,4,Olivia Englehart,10
+5,5,Stacy A. Faylor,10
+5,6,Sally Field,10
+5,7,Amelia Flowers,10
+5,8,Ruth Parker Fowler,10
+6,1,Amber Gaik,10
+6,2,Alden Gast,10
+6,3,Anna Gentges,10
+6,4,Bailey Glaze,10
+6,5,Cat Gordon,10
+6,6,Christian Gray,10
+6,7,Emily Catherine Grenfell,10
+6,8,Greta Grizzel,10
+7,1,Isabelle Hackney,10
+7,2,Kathryn Harper,10
+7,3,Kelsey Hartnett,10
+7,4,Leigh Haynes,10
+7,5,Madalyn Hefflefinger,10
+7,6,Mallary Hermann,10
+7,7,Mckenzie Hill,10
+7,8,Nicole Hisle,10
+8,1,Riley Hopson,10
+8,2,Sarah Hamilton Hudson,10
+8,3,Tegan Hundertmark,10
+8,4,Sophie Jankowski,10
+8,5,Charlotte Johnson,10
+8,6,Anastasia Jones,10
+8,7,Alexis L. Kalteis,10
+8,8,Anna Grace Kelaher,10
+9,1,Brynn Kiefer,10
+9,2,Cecillia Kirk,10
+9,3,Ellie Koenenn,10
+9,4,Gabby Lackman,10
+9,5,Hannah Landsittel,10
+9,6,Jennifer Leandro,10
+9,7,Kate Lindsley,10
+9,8,Kiersten Logan,10
+10,1,Lauren Lowe,10
+10,2,Mae Mae Macdonald,10
+10,3,Maggie Malynne,10
+10,4,Mary Ousley March,10
+10,5,Nancy Mazurek,10
+10,6,Rachel McCoy,10
+"
+"
+1,1,Kailey Allan,11
+1,2,Lauren Anderson,11
+1,3,Megan Assel,11
+1,4,Katie Bainborough,11
+1,5,Hannah Barber,11
+1,6,Carley Baron,11
+1,7,Macy Bayles,11
+1,8,Elizabeth Bennett,11
+2,1,Perry Bittner,11
+2,2,Madison Boitnott,11
+2,3,Michelle Boudreaux,11
+2,4,Avery Bradshaw,11
+2,5,Olivia Bridges,11
+2,6,Katie Brown,11
+2,7,Sarah Bryant,11
+2,8,Elson Burnett,11
+3,1,Avery Cabrini,11
+3,2,Elizabeth Capshaw,11
+3,3,Molly Cato,11
+3,4,Julia Chapman,11
+3,5,Abby Clancy,11
+3,6,Allyn Cloven,11
+3,7,Avery R. Conwell,11
+3,8,Caroline G. Couch,11
+4,1,Ciara Critchlow,11
+4,2,Emily  Cusimano,11
+4,3,Hadley Dart,11
+4,4,Jana Davis,11
+4,5,Julia Deck,11
+4,6,Katy Desnoyer,11
+4,7,Lexie Doane,11
+4,8,Lucia Drewry,11
+5,1,Madison Dunnigan,11
+5,2,Mary Elizabeth Easter,11
+5,3,Meaghan Ellinger,11
+5,4,Perry Eustice,11
+5,5,Shelby Fehlman,11
+5,6,Tyler Field,11
+5,7,Caroline Floyd,11
+5,8,Carson Franco,11
+6,1,Abbie Gaillet,11
+6,2,Alanah Gateley,11
+6,3,Anna Gershon,11
+6,4,Brenley Gleason,11
+6,5,Cate Gorey,11
+6,6,Ellie Gray,11
+6,7,Emily  Grennan,11
+6,8,Hannah Grooms,11
+7,1,Isabella Hagan,11
+7,2,Kathryn Harper,11
+7,3,Kelsey Hasik,11
+7,4,Lauren Hays,11
+7,5,Macy Heil,11
+7,6,Mallory Hernandez,11
+7,7,Mckenzi Hill,11
+7,8,Nicole Hitchens,11
+8,1,Reagan Hord,11
+8,2,Sarah Grace Hudson,11
+8,3,Taylor Hunt,11
+8,4,Hannah Janus,11
+8,5,Colby Johnson,11
+8,6,Bailey Jones,11
+8,7,Alexis Kampf,11
+8,8,Anna Claire Keller,11
+9,1,Burchie Kilburg,11
+9,2,Cecelia Kitchin,11
+9,3,Ellie Kolessar,11
+9,4,Gerogia Lacoste,11
+9,5,Haven Lanford,11
+9,6,Jenna Leaphart,11
+9,7,Kate Lineen,11
+9,8,Laney Long,11
+10,1,Macie Lowell,11
+10,2,Mady Maddox,11
+10,3,Mary Mandabach,11
+10,4,Mills Marchand,11
+10,5,Rachel McAuley,11
+10,6,Tarra McCray,11
+"
+"
+1,1,Jackie Allbert,12
+1,2,Maddie Anderson,12
+1,3,Grace Atkins,12
+1,4,Marisa Baird,12
+1,5,Lynsey Barden,12
+1,6,Lyndsey Barr,12
+1,7,Abby Beadle,12
+1,8,Madeline Bennett,12
+2,1,Allie Black,12
+2,2,Allie Boldt,12
+2,3,Katelyn Bounds,12
+2,4,Lauren Brady,12
+2,5,Tift Briner,12
+2,6,Sarah Brown,12
+2,7,Maddie Buchanan,12
+2,8,Carly Burnham,12
+3,1,Madeline Cacioppo,12
+3,2,Gretchen Caraway,12
+3,3,Courtney Caton,12
+3,4,Ally Charney,12
+3,5,Abby Clancy,12
+3,6,Allyn Clyde,12
+3,7,Avril R. Cook,12
+3,8,Caroline C. Courtney,12
+4,1,Cierra Crocker,12
+4,2,Emily  Czerwinski,12
+4,3,Hailee Daughtry,12
+4,4,Izzy Davis,12
+4,5,Julia Dedic,12
+4,6,Kayla Desper,12
+4,7,Lexi Dolan,12
+4,8,MacRae Drummond,12
+5,1,Mallory Duplisse,12
+5,2,Mary Claire Easterling,12
+5,3,Nina Elliot,12
+5,4,Payton Everett,12
+5,5,Shannon A. Fellows,12
+5,6,Tina Finley,12
+5,7,Reece Floyd,12
+5,8,Madeline G. Franke,12
+6,1,Amber Gaines,12
+6,2,Ainsley Gatlin,12
+6,3,Anna Gibson,12
+6,4,Breland Goad,12
+6,5,Cassidy Gossrau,12
+6,6,Ellie Grayson,12
+6,7,Emily  Gribble,12
+6,8,Hannah Guenther,12
+7,1,Jessica Haley,12
+7,2,Katee Harrell,12
+7,3,Kelsea Hastings,12
+7,4,Lauren Hayslip,12
+7,5,Maddie Heinecke,12
+7,6,Malia Herndon,12
+7,7,McKenna Hill,12
+7,8,Neale Hoang,12
+8,1,Rachel J. Horringan,12
+8,2,Sarah Charles Hudson,12
+8,3,Taylor Hutchins,12
+8,4,Meredith Jarrett,12
+8,5,Kaleigh Johnson,12
+8,6,Brooke Jones,12
+8,7,Alexis Kane,12
+8,8,Anna Claire Keller,12
+9,1,Brooke Killion,12
+9,2,Clayton Klass,12
+9,3,Emily Komes,12
+9,4,Gina Ladisic,12
+9,5,Harper Langley,12
+9,6,Kaleigh Leary,12
+9,7,Kate Linton,12
+9,8,Lauren Longnecker,12
+10,1,Lizzi Lowery,12
+10,2,Madison Madison,12
+10,3,Mary Mandell,12
+10,4,Meredith Marchbanks,12
+10,5,Rachel McCanless,12
+10,6,Sydney McCreary,12
